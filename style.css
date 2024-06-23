@@ -1,3 +1,22 @@
 .body {
-  margin: 0;
+	margin: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Jersey+10&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:wght@300;400;500;600&display=swap');
+.canvas {
+	position: relative;
+}
+.controls {
+	font-family: 'Jersey 10', sans-serif;
+	font-weight: 400;
+	font-size: 30px;
+	position: absolute;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	top: 10px;
+	left: 10px;
+	width: 300px;
+	height: 150px;
+	background-color: #fff;
+	z-index: 9;
 }
