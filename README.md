@@ -3,5 +3,5 @@ That`s my first project where i test my skills in three js, i built a simple mod
 ## Running Project
 1. Clone repository
 2. Install dependencies: npm install
-3. Run development server: npm run dev
+3. Run development server: npx vite
 4. Open http://localhost:5173 in your browser
